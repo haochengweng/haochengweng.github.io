@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (last update 2024/09)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Physics and Quantum Engineering, University of Bristol (Bristol, UK), 2026 (expected)**
+  <br>
+  With [Prof. JCF Matthews](https://scholar.google.co.uk/citations?user=sQ18ReUAAAAJ&hl=en), [Prof. KC Balram](https://scholar.google.co.uk/citations?hl=en&user=2uKTyT0AAAAJ&view_op=list_works&sortby=pubdate), and [Dr. JA Smith](https://scholar.google.co.uk/citations?user=_fqA2rsAAAAJ&hl=ro).
+ 
+* **M.S. in Physics, National Tsing Hua University (Hsinchu, Taiwan), 2022**
+  <br>
+  With [Prof. Chih-Sung Chuu](https://scholar.google.com/citations?user=WFOC5uMAAAAJ&hl=en).
 
-Work experience
+* **B.S. in Physics, National Tsing Hua University (Hsinchu, Taiwan), 2019**
+
+Awards (since 2022)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Taiwan Ministry of Education Scholarship (2024-2026)**
+* **2024 Bristol Quantum Information Technologies Workshop Best Poster Prize**: Crosstalk-Mitigated Microelectronic Control for Optically-Active Spins.
+* **2023 Hon Hai Technology Award**: awarded for pioneer research on heterogeneous integration of solid-state quantum systems with a foundry photonics platform, [link](https://www.bristol.ac.uk/qet-labs/news/2023/hao-cheng-tech-award.html).
+* **University of Bristol Fully Funded PhD Studentship (2022-2026)**: awarded for researching large scale spin-photonic integrated circuit for quantum information applications.
+* **2022 Postgraduates Student Thesis Award, Physical Society of Taiwan**: Hierarchy and Revival of Temporal Quantum Correlations.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Work experience (since 2022)
+======
+* **2023-2024 and 2024-2025: Demonstrator of third-year Computational Physics Lectures**
+  * University of Bristol, School of Physics
   
-Skills
+* **2023-2024 and 2024-2025: Demonstrator of Programming and Data Analysis for Scientists Lectures**
+  * University of Bristol, School of Chemistry and School of Physics
+
+* **2023: Student mentor of STEM Foundation Project Course**
+  * University of Bristol, School of Chemistry 
+  
+
+Skills and Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Quantum Information**
+  * Quantum correlations, quantum foundation
+  * Qantum communication, quantum computation
+  * Quantum sensing
+
+* **Experiemental Platforms**
+  * Photonic and electronic integrated circuits
+  * Color center defects (photonics and spin)
+  * Bulk optics and biphoton sources
+  * IBM superconducting quantum processors
+
+* **Programming**
+  * Maching learning, data mining
+  * Python, C, C++, Matlab, Mathematica...
 
 Publications
 ======
@@ -52,13 +71,16 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Patents
+======
+* Hao-Cheng Weng, Krishna C. Balram, and Joe A. Smith, Crosstalk-Mitigated Microelectronic Control for Optically-Active Spins, UK patent application No. GB 2404816.7.
+
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+   -->
+
