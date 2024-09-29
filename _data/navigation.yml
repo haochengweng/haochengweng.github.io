@@ -6,10 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://haochengweng.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://haochengweng.github.io/talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://haochengweng.github.io/cv/
     
   # - title: "Guide"
   #   url: /markdown/
