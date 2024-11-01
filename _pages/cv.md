@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (last update 2024/09)"
+title: "CV (last update 2024/11)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,6 +23,7 @@ Education
 
 Awards (since 2022)
 ======
+* **2024 M4QN Lab exchange award**
 * **Taiwan Ministry of Education Scholarship (2024-2026)**
 * **2024 Bristol Quantum Information Technologies Workshop Best Poster Prize**: Crosstalk-Mitigated Microelectronic Control for Optically-Active Spins.
 * **2023 Hon Hai Technology Award**: awarded for pioneer research on heterogeneous integration of solid-state quantum systems with a foundry photonics platform, [link](https://www.bristol.ac.uk/qet-labs/news/2023/hao-cheng-tech-award.html).

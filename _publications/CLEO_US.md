@@ -3,7 +3,7 @@ title: "Heterogeneous Integration of Solid-state Quantum Systems with Silicon Fo
 collection: publications
 category: conferences
 permalink: /publication/CLEO_US
-excerpt: 'Site-defined electron spin control is demonstrated by heterogeneous integrating NV centres in nanodiamond with silicon foundry microelectronics. Rabi oscillations indicates fifty times lower power consumption compared to addressing with an external microwave antenna.'
+excerpt: 
 date: 2024-05-05
 venue: 'CLEO: Science and Innovations'
 paperurl: 'https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2024-STh4R.2'

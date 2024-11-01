@@ -5,24 +5,32 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "News"
+    # url: /year-archive/
+    url: https://haochengweng.github.io/year-archive/
+
   - title: "Publications"
+    # url: /publications/
     url: https://haochengweng.github.io/publications/
     # change to  /publications/ to see the change locally and lively. Same for the ones below...
 
   - title: "Talks"
-    url: https://haochengweng.github.io/talks/    
+    # url: /talks/    
+    url: https://haochengweng.github.io/talks/ 
 
   # - title: "Teaching"
   #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+
   - title: "CV"
-    url: https://haochengweng.github.io/cv/
+    # url: /cv/
+    url: https://haochengweng.github.io/cv/ 
+        
+  - title: "CV (pdf)"
+    # url: /files/CV English 20241101 webpage.pdf
+    url: https://haochengweng.github.io/files/CV English 20241101 webpage.pdf
     
   # - title: "Guide"
   #   url: /markdown/
