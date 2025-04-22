@@ -6,8 +6,8 @@
 
 main:
   - title: "News"
-    url: /year-archive/
-    # url: https://haochengweng.github.io/year-archive/
+    # url: /year-archive/
+    url: https://haochengweng.github.io/year-archive/
 
   - title: "Publications"
     # url: /publications/
@@ -15,8 +15,8 @@ main:
     # change to  /publications/ to see the change locally and lively. Same for the ones below...
 
   - title: "Talks"
-    url: /talks/    
-    # url: https://haochengweng.github.io/talks/ 
+    # url: /talks/    
+    url: https://haochengweng.github.io/talks/ 
 
   # - title: "Teaching"
   #   url: /teaching/    
