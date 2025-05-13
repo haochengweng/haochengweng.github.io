@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Information_noneq
 excerpt: 
-date: 2025-05-113
+date: 2025-05-13
 venue: 'Physical Review A'
 paperurl: 'https://doi.org/10.1103/PhysRevA.111.052423'
 citation: 'Chung-Yun Hsieh, Benjamin Stratton, Hao-Cheng Weng, and Valerio Scarani, Informational non-equilibrium concentration. Physical Review A 111.5 (2025): 052423.'
