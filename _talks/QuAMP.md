@@ -1,6 +1,5 @@
 ---
-title: "Heterogeneous integration of solid state quantum systems with a foundry photonics plat-
-form"
+title: "Heterogeneous integration of solid state quantum systems with a foundry photonics platform"
 collection: talks
 type: "Oral and Poster Presentation"
 permalink: /talks/QuAMP
