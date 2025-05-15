@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D in Physics and Quantum Engineering, University of Bristol (Bristol, UK), 2026 (expected)**
   <br>
-  With [Prof. Jonathan C. F. Matthews](https://scholar.google.co.uk/citations?user=sQ18ReUAAAAJ&hl=en), [Prof. Anthony Laing](https://scholar.google.com.au/citations?hl=en&user=Q-DWZ10AAAAJ&view_op=list_works&sortby=pubdate), [Prof. Krishna C. Balram](https://scholar.google.co.uk/citations?hl=en&user=2uKTyT0AAAAJ&view_op=list_works&sortby=pubdate), and [Dr. Joe A. Smith](https://scholar.google.co.uk/citations?user=_fqA2rsAAAAJ&hl=ro).
+  With [Prof. Jonathan C. F. Matthews](https://scholar.google.co.uk/citations?user=sQ18ReUAAAAJ&hl=en), [Prof. Anthony Laing](https://scholar.google.com.au/citations?hl=en&user=Q-DWZ10AAAAJ&view_op=list_works&sortby=pubdate), [Prof. Krishna C. Balram](https://scholar.google.co.uk/citations?hl=en&user=2uKTyT0AAAAJ&view_op=list_works&sortby=pubdate), and [Dr. Joe A. Smith](https://scholar.google.com/citations?user=_fqA2rsAAAAJ&hl=en&inst=10389243673639785577).
  
 * **M.S. in Physics, National Tsing Hua University (Hsinchu, Taiwan), 2022**
   <br>
