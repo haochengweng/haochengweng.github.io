@@ -1,5 +1,5 @@
 ---
-title: "New paper published on Physical Review A"
+title: "Informational non-equilibrium concentration- new paper published on Physical Review A"
 date: 2025-05-13
 permalink: /posts/2025/05/Info_noneq_publish/
 tags:

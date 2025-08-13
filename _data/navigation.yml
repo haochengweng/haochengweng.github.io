@@ -6,12 +6,12 @@
 
 main:
   - title: "News"
-    # url: /year-archive/
-    url: https://haochengweng.github.io/year-archive/
+    url: /year-archive/
+    # url: https://haochengweng.github.io/year-archive/
 
   - title: "Publications"
-    # url: /publications/
-    url: https://haochengweng.github.io/publications/
+    url: /publications/
+    # url: https://haochengweng.github.io/publications/
     # change to  /publications/ to see the change locally and lively. Same for the ones below...
 
   - title: "Talks"

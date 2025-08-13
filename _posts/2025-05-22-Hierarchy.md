@@ -1,5 +1,5 @@
 ---
-title: "Our work published on Physical Review A"
+title: "Our work on hierarchy of temporal quantum correlations published on Physical Review A"
 date: 2025-05-22
 permalink: /posts/2025/05/Hierarchy/
 tags:
