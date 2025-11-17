@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (last update 2025/04)"
+title: "CV (last update 2025/11)"
 permalink: /cv/
 author_profile: true
 redirect_from:
