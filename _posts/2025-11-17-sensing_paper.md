@@ -6,7 +6,7 @@ tags:
   - Nitrogen vacancy centres
   - Photonic integrated circuits
   - Quantum sensing
-  - magnetic localisation
+  - Magnetic localisation
 ---
 ![Alt text for the image](/images/chip_sensing.png "A chip-based quantum sensor array.")
 
