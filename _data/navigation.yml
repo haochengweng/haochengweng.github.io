@@ -24,11 +24,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "CV"
-    # url: /cv/
-    url: https://haochengweng.github.io/cv/ 
+  # - title: "CV"
+  #   # url: /cv/
+  #   url: https://haochengweng.github.io/cv/ 
         
-  - title: "CV (pdf)"
+  - title: "CV"
     # url: /files/CV English 20241101 webpage.pdf
     url: https://haochengweng.github.io/files/CV 20260528.pdf
     
