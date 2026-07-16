@@ -8,7 +8,7 @@ date: 2026-05-28
 venue: 'Nature Communications'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.nature.com/articles/s41467-026-73701-0'
-citation: 'Weng, HC., Rarity, J.G., Balram, K.C. et al. Photonic-integrated quantum sensor array for microscale magnetic localisation. Nat Commun (2026). https://doi.org/10.1038/s41467-026-73701-0.'
+citation: 'Weng, HC., Rarity, J.G., Balram, K.C. et al. Photonic-integrated quantum sensor array for microscale magnetic localisation. Nat Commun 17, 6185 (2026). https://doi.org/10.1038/s41467-026-73701-0.'
 ---
 ![Profile Picture](/images/chip_sensing.png)
 
