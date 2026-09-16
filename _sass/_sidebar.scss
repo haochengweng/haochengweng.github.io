@@ -117,15 +117,19 @@
 
 .author__name {
   margin: 0;
+  padding-bottom: 20px;
+  color: $primary-color;
+  letter-spacing: -0.02em;
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-weight: 700;
 }
 
 .sidebar .author__desktop {

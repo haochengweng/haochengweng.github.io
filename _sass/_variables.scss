@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #597088;
+$dark-gray                  : #1f2d3a;
+$darker-gray                : #16222d;
+$light-gray                 : #8aa1b1;
+$lighter-gray               : #e4ddd4;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #f7f3ee;
+$background-color           : #f7f3ee;
+$code-background-color      : #f2eee8;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : #e2d9cf;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #1f5f73;
+$success-color              : #3f7d6a;
+$warning-color              : #d78d43;
+$danger-color               : #c76059;
+$info-color                 : #2d6f8c;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -103,10 +103,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color-hover           : #164a63;
+$link-color-visited         : #355d7d;
+$masthead-link-color        : #223548;
+$masthead-link-color-hover  : #154d6a;
 
 
 /*
@@ -158,8 +158,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$box-shadow                 : 0 8px 24px rgba(23, 33, 43, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

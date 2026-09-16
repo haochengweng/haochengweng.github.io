@@ -11,7 +11,7 @@
 
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include prefix(1 of 12);
   }
 
   a {
@@ -39,9 +39,15 @@
   }
 }
 
+.archive__item-shell {
+  margin-bottom: 1.5rem;
+}
+
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin: 0 0 0.35em;
   font-family: $sans-serif-narrow;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
 
   a + a {
     opacity: 0.5;
@@ -60,6 +66,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  color: mix(#000, $text-color, 32%);
 
   & + p {
     text-indent: 0;
@@ -90,21 +97,35 @@
    ========================================================================== */
 
 .list__item {
+  border: 1px solid rgba($primary-color, 0.14);
+  border-left: 3px solid rgba($primary-color, 0.85);
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0.1));
+  box-shadow: 0 4px 12px rgba(23, 33, 43, 0.04);
+
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding: 1.1em 1.5em;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding: 1.1em 1.5em;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding: 1.1em 1.5em;
   }
 
   .page__meta {
-    margin: 0 0 4px;
+    margin: 0 0 0.35rem;
+    color: mix(#000, $text-color, 20%);
   }
+}
+
+.archive__item:hover .list__item,
+.archive__item:focus-within .list__item {
+  border-color: rgba($primary-color, 0.3);
+  box-shadow: 0 10px 24px rgba(31, 41, 51, 0.08);
+  transform: translateY(-1px);
 }
 
 
