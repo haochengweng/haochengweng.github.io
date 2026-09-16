@@ -2,10 +2,8 @@
 
 source "https://rubygems.org"
 
-gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
-
 gem 'webrick'
-gem 'fiddle', '1.1.0'
+gem 'json', '~> 2.6', '< 2.7'
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem 'tzinfo', '>= 1', '< 3'

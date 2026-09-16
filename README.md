@@ -33,6 +33,10 @@ When you are initially working your website, it is very useful to be able to pre
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+### Preview from VS Code
+
+After installing the Ruby and Bundler prerequisites above, run `bundle install` once in the repository. Open the **Run and Debug** view, select **Preview website**, and press `F5`. VS Code will start Jekyll with live reload and open the site at http://127.0.0.1:4000. Stop the debugger to stop the local server.
+
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
 ## Using Docker

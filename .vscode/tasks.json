@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: serve (Docker)",
+      "type": "shell",
+      "command": "PATH=\"/Applications/Docker.app/Contents/Resources/bin:$PATH\" docker run --rm -p 4000:4000 -v \"${workspaceFolder}:/usr/src/app\" jekyll-site bundle exec jekyll serve --livereload --host 0.0.0.0",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "jekyll",
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": ".*Configuration file:.*",
+          "endsPattern": ".*(Server address|Server running at):.*"
+        }
+      }
+    }
+  ]
+}
