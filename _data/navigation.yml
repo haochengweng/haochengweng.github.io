@@ -6,31 +6,25 @@
 
 main:
   - title: "News"
-    # url: /year-archive/
-    url: https://haochengweng.github.io/year-archive/
+    url: /year-archive/
 
   - title: "Publications"
-    # url: /publications/
-    url: https://haochengweng.github.io/publications/
-    # change to  /publications/ to see the change locally and lively. Same for the ones below...
+    url: /publications/
 
   - title: "Talks"
-    # url: /talks/    
-    url: https://haochengweng.github.io/talks/ 
+    url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
   # - title: "CV"
-  #   # url: /cv/
-  #   url: https://haochengweng.github.io/cv/ 
-        
+  #   url: /cv/
+
   - title: "CV"
-    # url: /files/CV English 20241101 webpage.pdf
-    url: https://haochengweng.github.io/files/CV 20260528.pdf
-    
+    url: /files/CV 20260528.pdf
+
   # - title: "Guide"
   #   url: /markdown/
