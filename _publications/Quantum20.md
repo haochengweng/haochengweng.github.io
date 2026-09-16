@@ -2,7 +2,7 @@
 title: "Magnetic position finding with an NV-integrated silicon nitride photonic integrated circuit"
 collection: publications
 category: conferences
-permalink: /publication/Quantum2.0
+permalink: /publication/Quantum20
 excerpt: 
 date: 2026-06-15
 venue: 'Quantum 2.0 Conference and Exhibition'
